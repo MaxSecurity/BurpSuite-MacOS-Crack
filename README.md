@@ -1,7 +1,9 @@
 # Mac-Burp-Crack
 
 BurpSuite Mac上的打包版本持续跟新。
+
 The packaged version of BurpSuite MacOS is continuously updated.
+
 
 目前版本：v2020 9.2
 
