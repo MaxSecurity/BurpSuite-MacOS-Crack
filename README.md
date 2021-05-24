@@ -5,7 +5,7 @@ BurpSuite Mac上的打包版本持续跟新。
 The packaged version of BurpSuite MacOS is continuously updated.
 
 
-目前版本：V 2021.4
+目前版本：V 2021.4.2
 
 喜欢的可以Star
 
